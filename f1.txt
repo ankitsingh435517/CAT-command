@@ -1,0 +1,8 @@
+Hello i am f1.txt
+
+
+
+
+
+
+some para in f1.txt
